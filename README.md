@@ -1,2 +1,4 @@
-# smstlp
-https://github.com/dumai1999/smstlp/vtext/main/README.md
+Install
+git clone https://github.com/dumai1999/smstlp/vtext/
+sd smstlp
+sh smstlp.py
